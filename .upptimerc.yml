@@ -3,8 +3,10 @@ owner: yidasanqian # Your GitHub organization or username, where this repository
 repo: uptime # The name of this repository
 
 sites:
+  # 5分钟休眠一次
   - name: Glitch
     url: https://abstracted-wise-garment.glitch.me
+  # 10分钟休眠一次
   - name: Codesandbox
     url: https://y8s9xe-3000.csb.app
 
