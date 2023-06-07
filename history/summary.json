@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 190,
-    "timeWeek": 230,
-    "timeMonth": 230,
-    "timeYear": 230,
+    "time": 202,
+    "timeDay": 137,
+    "timeWeek": 202,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/y8s9xe-3000.csb.app.ico",
     "slug": "codesandbox",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 863,
-    "timeDay": 863,
-    "timeWeek": 863,
-    "timeMonth": 863,
-    "timeYear": 863,
+    "uptime": "33.86%",
+    "uptimeDay": "33.86%",
+    "uptimeWeek": "33.86%",
+    "uptimeMonth": "33.86%",
+    "uptimeYear": "33.86%",
+    "time": 714,
+    "timeDay": 714,
+    "timeWeek": 714,
+    "timeMonth": 714,
+    "timeYear": 714,
     "dailyMinutesDown": {
-      "2023-06-06": 0
+      "2023-06-07": 41,
+      "2023-06-06": 866
     }
   }
 ]
