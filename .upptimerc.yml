@@ -7,8 +7,8 @@ sites:
   - name: Glitch
     url: https://abstracted-wise-garment.glitch.me
   # 10分钟休眠一次
-  - name: Codesandbox
-    url: https://y8s9xe-3000.csb.app
+  #- name: Codesandbox
+  #  url: https://y8s9xe-3000.csb.app
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
