@@ -6,6 +6,8 @@ sites:
   # 5分钟休眠一次
   - name: Glitch
     url: https://abstracted-wise-garment.glitch.me
+  - name: Replit
+    url: https://HummingLightgrayMoto.yidasanqian.repl.co    
   # 10分钟休眠一次
   #- name: Codesandbox
   #  url: https://y8s9xe-3000.csb.app
