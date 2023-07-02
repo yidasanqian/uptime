@@ -22,19 +22,19 @@
     "url": "https://HummingLightgrayMoto.yidasanqian.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/humminglightgraymoto.yidasanqian.repl.co.ico",
     "slug": "replit",
-    "status": "up",
-    "uptime": "69.36%",
-    "uptimeDay": "35.34%",
-    "uptimeWeek": "69.36%",
-    "uptimeMonth": "69.36%",
-    "uptimeYear": "69.36%",
+    "status": "down",
+    "uptime": "62.89%",
+    "uptimeDay": "13.63%",
+    "uptimeWeek": "62.89%",
+    "uptimeMonth": "62.89%",
+    "uptimeYear": "62.89%",
     "time": 8182,
     "timeDay": 9936,
     "timeWeek": 8182,
     "timeMonth": 8182,
     "timeYear": 8182,
     "dailyMinutesDown": {
-      "2023-07-02": 330,
+      "2023-07-02": 642,
       "2023-07-01": 602
     }
   }
