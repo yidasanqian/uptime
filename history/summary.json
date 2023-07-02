@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 984,
-    "timeDay": 76,
-    "timeWeek": 122,
-    "timeMonth": 984,
-    "timeYear": 984,
+    "time": 961,
+    "timeDay": 212,
+    "timeWeek": 120,
+    "timeMonth": 961,
+    "timeYear": 961,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/humminglightgraymoto.yidasanqian.repl.co.ico",
     "slug": "replit",
     "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "98.52%",
-    "time": 13494,
-    "timeDay": 20076,
-    "timeWeek": 13494,
-    "timeMonth": 13494,
-    "timeYear": 13494,
+    "uptime": "76.52%",
+    "uptimeDay": "55.08%",
+    "uptimeWeek": "76.52%",
+    "uptimeMonth": "76.52%",
+    "uptimeYear": "76.52%",
+    "time": 10176,
+    "timeDay": 14801,
+    "timeWeek": 10176,
+    "timeMonth": 10176,
+    "timeYear": 10176,
     "dailyMinutesDown": {
-      "2023-07-01": 32
+      "2023-07-02": 45,
+      "2023-07-01": 602
     }
   }
 ]
