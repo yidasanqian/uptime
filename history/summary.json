@@ -4,9 +4,9 @@
     "url": "https://abstracted-wise-garment.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/abstracted-wise-garment.glitch.me.ico",
     "slug": "glitch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
@@ -16,6 +16,7 @@
     "timeMonth": 200,
     "timeYear": 1978,
     "dailyMinutesDown": {
+      "2023-08-18": 0,
       "2023-07-13": 96,
       "2023-07-12": 401
     }
@@ -26,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/humminglightgraymoto.yidasanqian.repl.co.ico",
     "slug": "replit",
     "status": "up",
-    "uptime": "33.24%",
+    "uptime": "33.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "51.21%",
     "uptimeMonth": "30.42%",
-    "uptimeYear": "33.24%",
+    "uptimeYear": "33.68%",
     "time": 3847,
     "timeDay": 337,
     "timeWeek": 3755,
