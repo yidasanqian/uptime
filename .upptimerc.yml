@@ -9,8 +9,8 @@ sites:
   - name: Replit
     url: https://HummingLightgrayMoto.yidasanqian.repl.co    
   # 10分钟休眠一次
-  #- name: bark
-  # url: https://z87zvy-8080.csb.app/
+  - name: Bark
+    url: https://z87zvy-8080.csb.app/$BARK_KEY
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
