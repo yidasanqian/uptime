@@ -41,17 +41,17 @@
     "slug": "replit",
     "status": "down",
     "uptime": "37.51%",
-    "uptimeDay": "1.05%",
+    "uptimeDay": "0.25%",
     "uptimeWeek": "62.46%",
     "uptimeMonth": "45.68%",
     "uptimeYear": "37.51%",
-    "time": 3837,
-    "timeDay": 5495,
-    "timeWeek": 3858,
-    "timeMonth": 3808,
-    "timeYear": 3837,
+    "time": 3888,
+    "timeDay": 6121,
+    "timeWeek": 4384,
+    "timeMonth": 3923,
+    "timeYear": 3888,
     "dailyMinutesDown": {
-      "2023-09-08": 643,
+      "2023-09-08": 654,
       "2023-09-07": 782,
       "2023-09-03": 122,
       "2023-09-02": 1440,
@@ -124,7 +124,7 @@
     "timeMonth": 1057,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2023-09-08": 643,
+      "2023-09-08": 654,
       "2023-09-07": 892
     }
   }
