@@ -4,8 +4,8 @@ repo: uptime # The name of this repository
 
 sites:
   # 5分钟休眠一次
-  #- name: Glitch
-  #  url: https://abstracted-wise-garment.glitch.me
+  - name: Glitch
+    url: https://chief-outgoing-trowel.glitch.me
   - name: Replit
     url: https://HummingLightgrayMoto.yidasanqian.repl.co    
   # 10分钟休眠一次
