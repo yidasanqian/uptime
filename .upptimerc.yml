@@ -7,14 +7,14 @@ sites:
   - name: Glitch
     url: https://chief-outgoing-trowel.glitch.me
   # 10分钟休眠一次
-  - name: Bark
-    url: https://z87zvy-8080.csb.app
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 301
-      - 302
-      - 404
+   #- name: Bark
+   #  url: https://z87zvy-8080.csb.app
+   #  expectedStatusCodes:
+   #    - 200
+    #   - 201
+    #   - 301
+     #  - 302
+     #  - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
