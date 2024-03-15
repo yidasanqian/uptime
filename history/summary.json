@@ -4,7 +4,7 @@
     "url": "https://chief-outgoing-trowel.glitch.me",
     "icon": "https://icons.duckduckgo.com/ip3/chief-outgoing-trowel.glitch.me.ico",
     "slug": "glitch",
-    "status": "up",
+    "status": "down",
     "uptime": "87.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1079,
     "timeYear": 987,
     "dailyMinutesDown": {
+      "2024-03-15": 0,
       "2024-02-03": 43,
       "2023-09-19": 123,
       "2023-09-18": 1440,
