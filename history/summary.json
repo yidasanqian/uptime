@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chief-outgoing-trowel.glitch.me.ico",
     "slug": "glitch",
     "status": "down",
-    "uptime": "80.61%",
+    "uptime": "80.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.25%",
-    "time": 1127,
-    "timeDay": 97,
-    "timeWeek": 246,
-    "timeMonth": 239,
-    "timeYear": 917,
+    "uptimeYear": "84.02%",
+    "time": 1125,
+    "timeDay": 125,
+    "timeWeek": 249,
+    "timeMonth": 240,
+    "timeYear": 920,
     "dailyMinutesDown": {
-      "2024-09-07": 39,
+      "2024-09-08": 44,
+      "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -77,8 +78,7 @@
       "2023-09-13": 1440,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
-      "2023-09-10": 1440,
-      "2023-09-09": 1440
+      "2023-09-10": 1440
     }
   }
 ]
